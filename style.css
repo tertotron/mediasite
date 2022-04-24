@@ -66,6 +66,7 @@ article figure {
 article img, video, div {
   box-shadow: 2px 2px 8px;
   border: solid black 1px;
+  margin: 1px;
 }
 
 footer p{
